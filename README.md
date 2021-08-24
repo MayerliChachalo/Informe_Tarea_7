@@ -12,9 +12,15 @@ Integrantes: Chachalo Mayerli, Mensias Adrian
 
 ## 2. MARCO TEÓRICO 
 
+### CAPITULO 13
+
+![Capitulo_13](https://user-images.githubusercontent.com/75383758/130704885-25c929bd-5793-4117-82e2-b836758715d8.png)
+
+### CAPITULO 14
+
+
 
 ## 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
-
 
 ### CAPITULO 13
 
