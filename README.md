@@ -18,6 +18,97 @@ Integrantes: Chachalo Mayerli, Mensias Adrian
 
 ### CAPITULO 13
 
+31. Por medio de la combinación de elementos, reduzca cada uno de los circuitos de la ﬁgura 13-42 a su forma más simple. 
+
+![image](https://user-images.githubusercontent.com/75383758/130538224-cd04107d-3e11-46a8-976e-01c0dafe3d8d.png)
+
+a) ![image](https://user-images.githubusercontent.com/75383758/130538260-851dc62a-02df-492f-b5fc-30451e9d3a2a.png)
+
+![image](https://user-images.githubusercontent.com/75383758/130538277-7058d955-c215-4eec-aba1-5cfdf791e120.png)
+
+b) ![image](https://user-images.githubusercontent.com/75383758/130538307-58a1b102-83e5-459e-8312-d3d65b3a6a44.png)
+
+![image](https://user-images.githubusercontent.com/75383758/130538316-3c1f139c-c9ff-4943-b2f9-178e11967ef3.png)
+
+c) ![image](https://user-images.githubusercontent.com/75383758/130538332-ebaf3fd1-ab88-4d69-adfe-405859408322.png)
+
+![image](https://user-images.githubusercontent.com/75383758/130538343-fb1914b8-a43f-45a8-bdc3-84be87d824e6.png)
+
+d) ![image](https://user-images.githubusercontent.com/75383758/130538363-86b6c509-9efa-43c3-a8a1-596593d1346b.png)
+
+![image](https://user-images.githubusercontent.com/75383758/130538369-033c10b6-bb56-4993-b684-02dd320a85a7.png)
+
+13-7 Inductancia y estado estable de CD 
+
+32. Para cada uno de los circuitos de la ﬁgura 13-43, los voltajes y corrientes han alcanzado sus valores ﬁnales (estado estable). Calcule las cantidades que se indican.
+
+a) ![image](https://user-images.githubusercontent.com/75383758/130539019-78f180c5-37e1-4c16-98db-c5deb18dacfb.png)
+
+b) ![image](https://user-images.githubusercontent.com/75383758/130539047-5ce4cb6f-a096-4362-881a-a44723c24f58.png)
+
+![image](https://user-images.githubusercontent.com/75383758/130539057-6f8f4da6-3b0b-426a-afaa-c0f366d3a15c.png)
+
+![image](https://user-images.githubusercontent.com/75383758/130539064-52e26285-04b5-48ef-92c5-168967956fd8.png)
+
+![image](https://user-images.githubusercontent.com/75383758/130539069-e1340a69-cda6-4135-b3fa-ed43e5e94556.png)
+
+![image](https://user-images.githubusercontent.com/75383758/130539081-e6f18d3f-d2d4-4968-928b-5ac38054b122.png)
+
+![image](https://user-images.githubusercontent.com/75383758/130539088-d8300ad7-a34d-4e76-8300-305840abbebf.png)
+
+13-8 Energía almacenada por una inductancia
+
+33. Encuentre la energía almacenada en el inductor de la ﬁgura 13-44.
+
+![image](https://user-images.githubusercontent.com/75383758/130539155-31233b98-c760-4520-8180-e7eeccfb358d.png)
+
+![image](https://user-images.githubusercontent.com/75383758/130539257-90492bd2-ffb9-4dde-bb9a-0d4099a86ce4.png)
+
+![image](https://user-images.githubusercontent.com/75383758/130539277-e5bcf9cc-863e-4ffb-bc24-99b601643c48.png)
+
+![image](https://user-images.githubusercontent.com/75383758/130539291-52e7c2aa-03bb-4349-a18f-df60ff8fb908.png)
+
+![image](https://user-images.githubusercontent.com/75383758/130539310-a50b1b0b-ed2d-4e15-821f-de3cd49c8e5e.png)
+
+![image](https://user-images.githubusercontent.com/75383758/130539326-95d895e4-f2fc-4c57-a53e-d6e2c6a437f1.png)
+
+![image](https://user-images.githubusercontent.com/75383758/130539342-69f89fc9-7b8b-428c-8459-5a3b5f5097e9.png)
+
+![image](https://user-images.githubusercontent.com/75383758/130539359-41634719-319e-41a6-91ed-c476ba0d8936.png)
+
+![image](https://user-images.githubusercontent.com/75383758/130539368-aa634d86-b623-4551-be87-c0b0ae851425.png)
+
+![image](https://user-images.githubusercontent.com/75383758/130539383-5ec7781d-96e3-4b43-b7e8-1525c074b515.png)
+
+![image](https://user-images.githubusercontent.com/75383758/130539401-1f06c105-abdc-4164-bb3d-beb0c02e8c62.png)
+
+34. En la ﬁgura 13-45, L1 = 2L2. La energía total almacenada es WT = 75 J. Encuentre L1 y L2.
+
+![image](https://user-images.githubusercontent.com/75383758/130539602-1c40ae9a-2033-40cc-b663-5c8e5dd19e34.png)
+
+![image](https://user-images.githubusercontent.com/75383758/130539622-786092e9-4568-42a8-a9d2-4cfa56d4d224.png)
+
+![image](https://user-images.githubusercontent.com/75383758/130539651-02e78587-76b7-4aad-af94-838c23ebc3f8.png)
+
+![image](https://user-images.githubusercontent.com/75383758/130539657-5dd3cac9-5477-4b1c-889f-cbc80f5adb53.png)
+
+![image](https://user-images.githubusercontent.com/75383758/130539665-d28bd8fc-a4f3-4268-afdc-5fe42bf4b5b5.png)
+
+![image](https://user-images.githubusercontent.com/75383758/130539671-58fb1f05-fb43-48b6-bece-84808e74e202.png)
+
+13-9 Sugerencias para la resolución de problemas con inductores
+
+35. En la ﬁgura 13-46, un medidor de inductancia mide 7 H. ¿Cuál es la falla probable?
+
+![image](https://user-images.githubusercontent.com/75383758/130539714-7802704d-6780-4d14-bb3b-e350fa0c177c.png)
+
+    La trayectoria que contiene L1 y L2 está abierta.
+
+36. Reﬁriéndose a la ﬁgura 13-47, un medidor de inductancia mide LT = 8 mH. ¿Cuál es la falla probable?
+
+        Es probable que la falla sea un cortocircuito en la bobina L2 o la bobina L3, entonces sólo las bombillas L1 y L4 estarán conectadas en serie:
+
+![image](https://user-images.githubusercontent.com/75383758/130540012-28fb4db0-e178-4daa-ba69-f9298ea505b7.png)
 
 ### CAPITULO 14
 
