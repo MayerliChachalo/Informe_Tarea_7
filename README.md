@@ -578,3 +578,7 @@ b. Si vL = 125e^500t V, ¿cuál es el voltaje vL en t  5 ms?
 
 ## 6. BIBLIOGRAFÍA
 
+Inductores e inductancia - FisicaPractica.Com. Fisicapractica.com. (2021). Retrieved 24 August 2021, from https://www.fisicapractica.com/inductancia.php.
+
+
+
