@@ -6,9 +6,7 @@ Integrantes: Chachalo Mayerli, Mensias Adrian
 
 **Objetivo General**
 
-Describir qué es un inductor y cuáles su efecto en la operación de un circuito, y explicar la ley de Faraday y la ley de Lenz.
-
-Explicar por qué ocurren los transitorios en los circuitos RL, explicar por qué un inductor con condición inicial cero parece un circuito abierto cuando se le provee energía.
+- Describir qué es un inductor y cuáles su efecto en la operación de un circuito, y explicar la ley de Faraday y la ley de Lenz, además de explicar por qué ocurren los transitorios en los circuitos RL, explicar por qué un inductor con condición inicial cero parece un circuito abierto cuando se le provee energía.
 
 **Objetivos específicos**
 
