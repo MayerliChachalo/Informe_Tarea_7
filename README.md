@@ -6,9 +6,19 @@ Integrantes: Chachalo Mayerli, Mensias Adrian
 
 **Objetivo General**
 
+Describir qué es un inductor y cuáles su efecto en la operación de un circuito, y explicar la ley de Faraday y la ley de Lenz.
+
+Explicar por qué ocurren los transitorios en los circuitos RL, explicar por qué un inductor con condición inicial cero parece un circuito abierto cuando se le provee energía.
 
 **Objetivos específicos**
 
+Calcular el voltaje inducido mediante la ley de Faraday.
+
+Deﬁnir inductancia.
+
+Calcular el voltaje en una inductancia.
+
+Calcular la inductancia para conﬁguraciones en serie y en paralelo.
 
 ## 2. MARCO TEÓRICO 
 
@@ -751,12 +761,13 @@ y vL a partir de t  0 hasta que el circuito alcance el estado estable en la po
 3. Calcule el voltaje y la corriente del inductor en t  0.1 s y en t 
 1.1 s.
 
-
-
-
 ## 4. VIDEO 
 
 ## 5. CONCLUSIONES
+
+Para calcular el voltaje y corriente de un inductor cuando el circuito adquiere el estado estable. Primero se ubica los inductores como un cortocircuito, se calcula el voltaje, corriente y resistencia como un circuito cualquiera y a partir de ahí se aplica cualquier método para la resolución de circuitos y con ello se obtiene voltaje y corriente de un inductor.
+
+En circuitos RL el tanto el voltaje como la corriente funcionan dependiendo del caso, es decir, cuando hay crecimiento la corriente empieza desde 0 hasta llegar un punto en el que se estabiliza, sin embargo, el voltaje funciona al contrario es decir empieza con el voltaje máximo y va descendiendo hasta 0. Ocurre lo contrario en la fase de decrecimiento es decir la corriente empieza en el valor estable hasta 0 y el voltaje empieza en 0 hasta llegar al voltaje máximo.
 
 ## 6. BIBLIOGRAFÍA
 
