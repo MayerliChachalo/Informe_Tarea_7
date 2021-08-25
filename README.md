@@ -18,7 +18,7 @@ Integrantes: Chachalo Mayerli, Mensias Adrian
 
 ### CAPITULO 14
 
-
+![Capitulo_14](https://user-images.githubusercontent.com/75383758/130705678-b00b9b42-182b-4155-89e1-6ac0fdd27e90.png)
 
 ## 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
