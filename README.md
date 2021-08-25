@@ -580,5 +580,4 @@ b. Si vL = 125e^500t V, ¿cuál es el voltaje vL en t  5 ms?
 
 Inductores e inductancia - FisicaPractica.Com. Fisicapractica.com. (2021). Retrieved 24 August 2021, from https://www.fisicapractica.com/inductancia.php.
 
-
-
+Transitorios en los circuitos RL - FisicaPractica.Com. Fisicapractica.com. (2021). Retrieved 25 August 2021, from https://www.fisicapractica.com/transitorios-rl.php. 
