@@ -682,13 +682,41 @@ e)
 
 9. Cierre el interruptor en t  0 s y determine las ecuaciones para iL y vL para el circuito de la figura 14-42. Calcule iL y vL en t  3.4 ms.
 
+![image](https://user-images.githubusercontent.com/85126275/130879866-57b5aa6a-9156-4482-b942-6ecb2479782f.png)
+
+![image](https://user-images.githubusercontent.com/85126275/130879921-f686dd4c-5dba-4c86-b101-a05d2b1d79e2.png)
+
+![image](https://user-images.githubusercontent.com/85126275/130879967-126b37a0-d768-4861-9e76-c49dc9328271.png)
+
+![image](https://user-images.githubusercontent.com/85126275/130880005-f4206bbc-d011-4915-aa77-ed5e4e12d5a1.png)
+
 10. Use la figura 14-10 para encontrar vL en una constante de tiempo para el circuito de la figura 14-42.
+
+![image](https://user-images.githubusercontent.com/85126275/130883377-c734f032-b28c-41c2-bc20-acd282ee37fe.png)
+
+![image](https://user-images.githubusercontent.com/85126275/130961461-a730c0b7-23f0-476e-99c2-6a79d2053c86.png)
+
+![image](https://user-images.githubusercontent.com/85126275/130961494-b78215f2-ab3d-4e30-b62a-1dc74ba390ac.png)
 
 11. Para el circuito de la figura 14-1(b), el voltaje en la inductancia en el instante en que el interruptor se cierra es 80 V, la corriente final de estado estable es 4 A, y el transitorio dura 0.5 s. Determine E, R y L.
 
+![image](https://user-images.githubusercontent.com/85126275/130965085-f24b7122-ca20-4feb-b1c1-4112f893e12d.png)
+
+![image](https://user-images.githubusercontent.com/85126275/130965428-92ac0384-c168-41ac-9dcd-d8b14a73f694.png)
+
+![image](https://user-images.githubusercontent.com/85126275/130965474-9eb96227-0baf-4793-87ef-540d6f987124.png)
+
 12. Para el circuito RL, iL  20(1  ett) mA y vL  40et t V. Si el transitorio dura 0.625 ms, ¿cuáles son los valores de E, R y L?
 
+![image](https://user-images.githubusercontent.com/85126275/130969528-3283a72f-303d-409c-a22d-da1a09022add.png)
+
+![image](https://user-images.githubusercontent.com/85126275/130969580-1bf0c52d-194f-43e1-88d6-043462281eef.png)
+
 13. Para la figura 14-1(b), si vL  40e2000t V y la corriente de estado estable es 10 mA, ¿cuáles son los valores de E, R y L?
+
+![image](https://user-images.githubusercontent.com/85126275/130969837-c2561862-391e-4e96-9a79-3738fd037477.png)
+
+![image](https://user-images.githubusercontent.com/85126275/130969874-772453bb-7275-4b2c-8506-266140a8ffb2.png)
 
 14-4 Transitorios desenergizantes
 
